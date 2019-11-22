@@ -1,6 +1,6 @@
 # charge
 
-What if, a charged particle move along a trajectory?
+What if, a charged particle moves along a trajectory?
 
 
 # Installation
